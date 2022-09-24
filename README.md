@@ -5,15 +5,18 @@ Just make sure that above mentioned tools are installed and working properly on 
 Also everyone is welcome to clone, modify, reuse the script as per their own need.
 
 ## Usage:
-For first time you have enable execution permission
-     ```
-     chmod +x webptquick.sh
-     ```
+- For first time you have enable execution permission
 
-To run the script
-     ./webptquick.sh -h (to see example)
-     ./webptquick.sh -u https://example.com 
+```
+chmod +x webptquick.sh
+```
 
+- To run the script
+
+```
+./webptquick.sh -h (to see example)
+./webptquick.sh -u https://example.com 
+```
 
 
 
