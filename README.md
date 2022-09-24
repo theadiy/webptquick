@@ -5,7 +5,7 @@ Just make sure that above mentioned tools are installed and working properly on 
 Also everyone is welcome to clone, modify, reuse the script as per their own need.
 
 ## Usage:
-- For first time you have enable execution permission
+- For first time you have to enable execution permission
 
 ```
 chmod +x webptquick.sh
